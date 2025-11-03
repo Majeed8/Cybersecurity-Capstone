@@ -60,7 +60,7 @@ The vulnerability persisted even after the victim logged out, indicating imprope
 ---
 
 ### 6. Directory Listing — Unauthorized directory listing
-**Classification:** Information Disclosure / Sensitive Data Exposure
+**Classification:** Information Disclosure / Sensitive Data Exposure  
 **Summary:**  
 Directory listing allows attackers to view the contents of web directories that should not be publicly accessible.  
 This can reveal sensitive files (e.g., API's configuration files, backups, source code, credentials) and lead to further exploitation.  
